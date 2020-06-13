@@ -6,26 +6,27 @@
 <head>
 
     <meta charset="ISO-8859-1">
-    <title>Test</title>
+	<title>Output</title>
+	<link rel="stylesheet" href="index.css">
+	<link href="https://fonts.googleapis.com/css2?family=Metal+Mania&display=swap" rel="stylesheet">
 
 </head>
 
 <body>
 
-	Name is: ${name}
-    <br>
+	<div class="box1">
+		
+		<p>Name is: <b>${name}</b></p>
 	
-	Last name is: ${lastName}
-    <br>
+		<p>Last name is: <b>${lastName}</b></p>
 	
-	Date of birth is: ${dob}
-    <br>
+		<p>Date of birth is: <b>${dob}</b></p>
    
-	Email is: ${email}
-	<br>
+		<p>Email is: <b>${email}</b></p>
 	
-	Place of birth is: ${pob}
-	<br>
+		<p>Place of birth is: <b>${pob}</b></p>
+		
+	</div>
 	
 </body>
 

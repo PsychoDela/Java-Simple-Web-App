@@ -1,0 +1,34 @@
+.box1
+{
+    width: 200px;
+    height: 200px;
+    background-color: crimson;
+    text-align: center;
+    margin: auto;
+    margin-top: 50px;
+    border: 2px solid black;
+}
+
+.box2
+{
+    width: 200px;
+    height: 400px;
+    background-color: crimson;
+    text-align: center;
+    margin: auto;
+    margin-top: 50px;
+    border: 2px solid black;
+}
+
+body
+{
+    background-color: blueviolet;
+    font-family: 'Metal Mania', cursive;
+}
+
+.button
+{
+    background-color: rgb(55, 179, 94);
+    border: 1px solid black;
+    border-radius: 5px;
+}
